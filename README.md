@@ -11,10 +11,10 @@ Each directory of Lecture have to include export file (.pdf), editable file (.md
 **Example directory structure.**
 
     -- subject_name
-      -- lecture_name (by week)
-        -- media
-          -- 1.jpg
-          -- 2.jpg
-          -- 3.jpg
-        lecture_name.md
-        lecture_name.pdf
+       -- lecture_name (by week)
+          -- media
+             -- 1.jpg
+             -- 2.jpg
+             -- 3.jpg
+          lecture_name.md
+          lecture_name.pdf
